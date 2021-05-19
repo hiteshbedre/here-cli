@@ -1,3 +1,4 @@
+salary=100
 name: npm-publish
 on:
   release:
