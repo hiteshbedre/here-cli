@@ -92,4 +92,4 @@ Copyright (C) 2018 - 2021 HERE Europe B.V.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-Trigger 2
+Trigger 3
